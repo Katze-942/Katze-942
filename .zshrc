@@ -1,3 +1,7 @@
+# !!! This configuration is several years old, I still have no idea how it works. !!!
+
+
+
 # Hi! This is my config for oh-my-zsh. Oh-my-zsh and plugins are automatically downloaded and installed.
 # Let me know if there are any problems.
 # Permission is granted to copy and modify this config in peace.

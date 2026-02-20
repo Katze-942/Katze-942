@@ -1,10 +1,9 @@
-*[Русская версия](./README_RU.md) • <b>English version</b>*
+*<b>Русская версия</b> • [English version](./README.md)*
 
-# Hey there, I'm Zhora Zmeykin 👋
+# Всем привет, я Жора Змейкин 👋
+Хоть я и занимаюсь программированием, у меня ещё нет чёткого направления. Практиковался и в веб-разработке, и в бэкенде, и в написании Discord/Telegram ботов. Понял, что мне больше нравится дорабатывать существующие решения, чем писать свои с нуля. Сосредоточен на изучении Linux, в том числе и его рабочего окружения. Интересуюсь работой систем маскировки трафика, обходящих DPI. Люблю KDE Plasma, веду Telegram-канал [@alt_kde](https://t.me/alt_kde), в общем, энтузиаст в мире Open Source: контрибьючу, пишу баг-репорты, продвигаю (по возможности) open-source решения.
 
-Although I'm into programming, I haven't found a specific direction yet. I've practiced web development, backend, and building Discord/Telegram bots. I've realized that I enjoy improving existing solutions more than writing my own from scratch. Currently focused on learning Linux, including its desktop environment. Interested in how traffic obfuscation systems that bypass DPI work. I love KDE Plasma, run a Telegram channel [@alt_kde](https://t.me/alt_kde), and overall I'm an Open Source enthusiast: I contribute, file bug reports, and promote open-source solutions whenever I can.
-
-## 🛠 Tech Stack
+## 🛠 Технический стек
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,py,html,css,js,ts,nodejs,docker,git" />
   <br/><br/>
@@ -12,7 +11,7 @@ Although I'm into programming, I haven't found a specific direction yet. I've pr
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-## 📫 Contacts
+## 📫 Контакты
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-katze__942-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/517331770656686080) [![Telegram](https://img.shields.io/badge/Telegram-katze__942-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/katze_942) [![Sharkey](https://img.shields.io/badge/Sharkey-Katze__942-86b300?style=for-the-badge&logo=misskey&logoColor=white)](https://shitpost.poridge.club/@Katze_942)
